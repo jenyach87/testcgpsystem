@@ -1,0 +1,23 @@
+.block{
+  width: 478px;
+}
+.button__group {
+  display: flex;
+  width: 53px;
+  height: 27px;
+  padding: 3px 0px 0px 0px;
+  border-radius: 3px 3px 0px 0px;
+  opacity: 0px;
+  border: none;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #449cf4;
+  width: 21px;
+  height: 21px;
+  padding: 3px 0px 0px 0px;
+  opacity: 0px;
+  border: none;
+}
